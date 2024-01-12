@@ -34,7 +34,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/e38955d69c20f
+          plugin_16personalities_url: https://www.16personalities.com/profiles/bbc6258452f13
           plugin_anilist: yes
           plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 6
