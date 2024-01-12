@@ -73,7 +73,7 @@ jobs:
           plugin_steam_playtime_threshold: 4
           plugin_steam_recent_games_limit: 3
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: STEAM_0:1:171149059
+          plugin_steam_user: churchylol
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
