@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicefaa6waa&label=Profile%20views&color=0eb44d&style=flat" alt="nicefaa6waa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicefaa6waa" alt="nicefaa6waa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicefaa6waa&theme=onedark" alt="nicefaa6waa" /></a> </p>
 
 - 🔭 I’m currently working on [genshin-sddm-theme](https://github.com/nicefaa6waa/genshin-sddm-theme)
 
