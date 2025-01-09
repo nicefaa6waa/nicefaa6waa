@@ -13,6 +13,11 @@
 
 - ![icon](https://i.ibb.co/ZKq6QLd/Harvard-1-svg-11zon.png) Also taking [CS50AI](https://cs50.harvard.edu/ai/2024/)
 
+- ![icon](https://i.ibb.co/ZKq6QLd/Harvard-1-svg-11zon.png) Finished [CS50X](https://certificates.cs50.io/08631dd5-f864-4c07-b171-bbc176a6a077.pdf?size=letter)
+ 
+- ![icon](https://i.ibb.co/ZKq6QLd/Harvard-1-svg-11zon.png) Also finished [CS50CS](https://certificates.cs50.io/d1e9aa65-45b1-431f-9b6c-0a7b70258a1f.pdf?size=letter)
+
+
 - 📫 How to reach me **mammadli0088@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
