@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [genshin-sddm-theme](https://github.com/nicefaa6waa/genshin-sddm-theme)
 
-- ![icon](https://i.ibb.co/2WZ12S1/favicon-removebg-preview-11zon.png)Alumnus of <a href="https://yapayzekaveteknolojiakademisi.com/"> **Google Artificial Intelligence and Technology Academy** </a>
+- ![icon](https://i.ibb.co/2WZ12S1/favicon-removebg-preview-11zon.png) Alumnus of <a href="https://yapayzekaveteknolojiakademisi.com/"> **Google Artificial Intelligence and Technology Academy** </a>
 
 - ![icon](https://i.ibb.co/ZKq6QLd/Harvard-1-svg-11zon.png) Currently taking [CS50SQL](https://cs50.harvard.edu/sql/2024/)
 
