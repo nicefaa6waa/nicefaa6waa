@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm churchy</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Student in Yildiz Technical University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicefaa6waa&label=Profile%20views&color=0eb44d&style=flat" alt="nicefaa6waa" /> </p>
